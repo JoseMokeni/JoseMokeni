@@ -45,8 +45,8 @@ Designing end-to-end products · Cloud & CI/CD · Mentoring dev teams
 
 <div align="center">
 
-<img height="165" src="https://stats.josemokeni.cloud/api?username=JoseMokeni&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8D5B0&icon_color=E8D5B0&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-<img height="165" src="https://stats.josemokeni.cloud/api/top-langs/?username=JoseMokeni&layout=compact&theme=dark&bg_color=0d1117&title_color=E8D5B0&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6" />
+<img height="165" src="https://stats.josemokeni.cloud/api?username=JoseMokeni&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8D5B0&icon_color=E8D5B0&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&hide=jupyter%20notebook" />
+<img height="165" src="https://stats.josemokeni.cloud/api/top-langs/?username=JoseMokeni&layout=compact&theme=dark&bg_color=0d1117&title_color=E8D5B0&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6&hide=jupyter%20notebook" />
 
 <br/>
 
